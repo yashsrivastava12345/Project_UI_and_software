@@ -1,0 +1,4 @@
+Steps to do
+1) integrate 
+2) make UI more interactive
+3) Meeting is on 10 April 2025
